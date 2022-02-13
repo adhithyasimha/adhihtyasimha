@@ -11,16 +11,16 @@
 
 - 💬 Ask me about **football,f1**
 
-- 📫 How to reach me **psadhithya03@gmail.com**
+- 📫 How to reach me - **psadhithya03@gmail.com**
 
-- fun fact⚡ **i think am funny**
+- fun fact⚡- **i think am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ps_adhithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ps_adhithya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/adhithyaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adhithyaps" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18194264/adhithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18194264/adhithya" height="30" width="40" /></a>
-<a href="https://instagram.com/@iam.aaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iam.aaddy" height="30" width="40" /></a>
+<a href="https://instagram.com/iam.aaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.aaddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,8 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psadhithya&show_icons=true&locale=en" alt="psadhithya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psadhithya&" alt="psadhithya" /></p>
-
-<!---
-psadhithya/psadhithya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
