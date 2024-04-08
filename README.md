@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psadhithya&label=Profile%20views&color=0e75b6&style=flat" alt="psadhithya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psadhithya" alt="psadhithya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhithyasimha" alt="adhihtyasimha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ps_adhithya" target="blank"><img src="https://img.shields.io/twitter/follow/ps_adhithya?logo=twitter&style=for-the-badge" alt="ps_adhithya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ps_adhithya" target="blank"><img src="https://img.shields.io/twitter/follow/ps_adhithya?logo=twitter&style=for-the-badge" alt="adhithyasimha" /></a> </p>
 
 - 🌱 I’m currently learning **computer science and engineering**
 
 - 💬 Ask me about **football,f1**
 
-- 📫 How to reach me - **psadhithya03@gmail.com**
+- 📫 How to reach me - **adhithyasimha@icloud.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ps_adhithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ps_adhithya" height="30" width="40" /></a>
+<a href="https://twitter.com/adhithyasimha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ps_adhithya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/adhithyaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adhithyaps" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18194264/adhithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18194264/adhithya" height="30" width="40" /></a>
 <a href="https://instagram.com/iam.aaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.aaddy" height="30" width="40" /></a>
